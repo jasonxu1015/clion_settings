@@ -13,12 +13,28 @@
       <file name="H:/study/project/tinyhttpd/simpleclient.c" timestamp="1554393489866">
         <mark key="'" line="13" column="17" />
       </file>
-      <file name="H:/study/project/tinyhttpd/README.md" timestamp="1554393964004" />
+      <file name="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/common_def.h" timestamp="1554767195297">
+        <mark key="[" line="65" column="4" />
+        <mark key="]" line="65" column="15" />
+      </file>
+      <file name="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.h" timestamp="1554767531691">
+        <mark key="[" line="126" column="31" />
+        <mark key="]" line="126" column="31" />
+        <mark key="." line="126" column="31" />
+        <mark key="^" line="126" column="36" />
+      </file>
       <file name="H:/abc/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" timestamp="1554392186913">
         <mark key="[" line="2621" column="0" />
         <mark key="]" line="2621" column="0" />
         <mark key="^" line="2621" column="0" />
         <mark key="." line="2621" column="0" />
+      </file>
+      <file name="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" timestamp="1554767562231">
+        <mark key="'" line="2730" column="8" />
+        <mark key="[" line="79" column="24" />
+        <mark key="]" line="79" column="24" />
+        <mark key="." line="79" column="24" />
+        <mark key="^" line="79" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -26,16 +42,35 @@
       <jump line="504" column="8" filename="H:/study/project/tinyhttpd/httpd.c" />
       <jump line="507" column="14" filename="H:/study/project/tinyhttpd/httpd.c" />
       <jump line="36" column="5" filename="H:/study/project/tinyhttpd/httpd.c" />
+      <jump line="2721" column="8" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
+      <jump line="0" column="0" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
+      <jump line="35" column="5" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
+      <jump line="76" column="5" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
+      <jump line="78" column="3" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
+      <jump line="2651" column="4" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
+      <jump line="2727" column="8" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZW5kX2FsYXJtKGdfZ2xvYmFsX2NmZy53YXJuaW5nX2VycmlkLAogICAgICAgICAgICBlcnJtc2cuc3RyKCkuY19zdHIoKSwKICAgICAgICAgICAgZ19nbG9iYWxfY2ZnLndhcm5pbmdfaXAsCiAgICAgICAgICAgIGdfZ2xvYmFsX2NmZy53YXJuaW5nX3BvcnQpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgc2VuZF9hbGFybSgpCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>.</text>
+      </register>
+      <register name="-" type="4">
+        <text>.</text>
+      </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY2NlcHRfcmVxdWVzdFw+</text>
+        <text encoding="base64">XDxzZW5kX2FsYXJtXD4=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY2NlcHRfcmVxdWVzdFw+</last-search>
+      <last-search encoding="base64">XDxzZW5kX2FsYXJtXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY2NlcHRfcmVxdWVzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kX2FsYXJtXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -44,6 +79,7 @@
         <entry>9734</entry>
         <entry encoding="base64">XDxjbGllbnRfc29ja1w+</entry>
         <entry encoding="base64">XDxhY2NlcHRfcmVxdWVzdFw+</entry>
+        <entry encoding="base64">XDxzZW5kX2FsYXJtXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -55,6 +91,18 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
