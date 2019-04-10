@@ -36,7 +36,6 @@
         <mark key="." line="335" column="104" />
         <mark key="^" line="335" column="104" />
       </file>
-      <file name="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/new 1.txt" timestamp="1554768719475" />
     </filemarks>
     <jumps>
       <jump line="13" column="17" filename="H:/study/project/tinyhttpd/simpleclient.c" />
@@ -133,6 +132,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
