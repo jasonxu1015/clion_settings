@@ -3,65 +3,139 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1561454531051">
-        <mark key="[" line="0" column="0" />
+      <file name="H:/study/project/tinyhttpd/httpd.c" timestamp="1554393591083">
+        <mark key="'" line="36" column="5" />
+        <mark key="[" line="277" column="30" />
+        <mark key="]" line="277" column="11" />
+        <mark key="^" line="277" column="11" />
+        <mark key="." line="277" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/work/tencent/lqtpay_itg_server/comm/payprocess.cpp" timestamp="1561524552716">
-        <mark key="[" line="596" column="4" />
-        <mark key="]" line="596" column="20" />
-        <mark key="^" line="596" column="20" />
-        <mark key="." line="596" column="20" />
+      <file name="H:/study/project/tinyhttpd/simpleclient.c" timestamp="1554393489866">
+        <mark key="'" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/untitled/main.cpp" timestamp="1561460689334">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="23" />
-        <mark key="." line="3" column="23" />
-        <mark key="^" line="3" column="23" />
+      <file name="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/common_def.h" timestamp="1554767195297">
+        <mark key="[" line="65" column="4" />
+        <mark key="]" line="65" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/work/tencent/lqtpay_itg_server_proj/comm/payprocess.cpp" timestamp="1561642776965">
-        <mark key="[" line="81" column="7" />
-        <mark key="]" line="81" column="7" />
-        <mark key="." line="81" column="7" />
+      <file name="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.h" timestamp="1554767531691">
+        <mark key="[" line="126" column="31" />
+        <mark key="]" line="126" column="31" />
+        <mark key="." line="126" column="31" />
+        <mark key="^" line="126" column="36" />
+      </file>
+      <file name="H:/abc/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" timestamp="1554392186913">
+        <mark key="[" line="2621" column="0" />
+        <mark key="]" line="2621" column="0" />
+        <mark key="^" line="2621" column="0" />
+        <mark key="." line="2621" column="0" />
+      </file>
+      <file name="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" timestamp="1554768785619">
+        <mark key="'" line="3191" column="22" />
+        <mark key="[" line="335" column="104" />
+        <mark key="]" line="335" column="104" />
+        <mark key="." line="335" column="104" />
+        <mark key="^" line="335" column="104" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="13" column="17" filename="H:/study/project/tinyhttpd/simpleclient.c" />
+      <jump line="504" column="8" filename="H:/study/project/tinyhttpd/httpd.c" />
+      <jump line="507" column="14" filename="H:/study/project/tinyhttpd/httpd.c" />
+      <jump line="36" column="5" filename="H:/study/project/tinyhttpd/httpd.c" />
+      <jump line="2721" column="8" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
+      <jump line="0" column="0" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
+      <jump line="2651" column="4" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
+      <jump line="2727" column="8" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
+      <jump line="2300" column="4" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
+      <jump line="1157" column="5" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
+      <jump line="3262" column="12" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
+      <jump line="3267" column="12" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
+      <jump line="35" column="5" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
+      <jump line="76" column="5" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
+      <jump line="78" column="4" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
+      <jump line="2655" column="4" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
+      <jump line="2714" column="5" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
+      <jump line="3191" column="22" filename="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" />
+    </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiSGVsbG8sIFdvcmxkISIgPDwgc3RkOjplbmRsOwo=</text>
+      <register name="0" type="4">
+        <text>please check failed info</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiSGVsbG8sIFdvcmxkISIgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJmYWlsZWQsIHBsZWFzZSBjaGVjayBmYWlsZWQgaW5mby4gUmV0dXJuIGVycm9yLlxuIik7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJ0b28gbXVjaCBlcnJvciwgc28gcmV0dXJuIGVycm9yLlxuIik7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXIgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgc2VuZF9hbGFybSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx3YXJuaW5nX2NoZWNrXD4=</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDx3YXJuaW5nX2NoZWNrXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx3YXJuaW5nX2NoZWNrXD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>9734</entry>
+        <entry encoding="base64">XDxjbGllbnRfc29ja1w+</entry>
+        <entry encoding="base64">XDxhY2NlcHRfcmVxdWVzdFw+</entry>
+        <entry>is_print</entry>
+        <entry encoding="base64">XDxxcnlfZGJcPg==</entry>
+        <entry encoding="base64">XDxpc0MyY1Ryc0luZm9FeGlzdHNcPg==</entry>
+        <entry encoding="base64">XDxzZW5kX2FsYXJtXD4=</entry>
+        <entry encoding="base64">XDx3YXJuaW5nX2NoZWNrXD4=</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed M</text>
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
   </component>
 </application>
