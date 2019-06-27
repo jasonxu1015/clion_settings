@@ -28,6 +28,9 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="KJumpAction">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
   <action id="MinimizeCurrentWindow" />
   <action id="RecentFiles" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
