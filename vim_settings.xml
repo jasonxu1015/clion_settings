@@ -3,12 +3,32 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1561454531051">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="H:/study/project/tinyhttpd/httpd.c" timestamp="1554393591083">
         <mark key="'" line="36" column="5" />
         <mark key="[" line="277" column="30" />
         <mark key="]" line="277" column="11" />
         <mark key="^" line="277" column="11" />
         <mark key="." line="277" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/tencent/lqtpay_itg_server/comm/payprocess.cpp" timestamp="1561524552716">
+        <mark key="[" line="596" column="4" />
+        <mark key="]" line="596" column="20" />
+        <mark key="^" line="596" column="20" />
+        <mark key="." line="596" column="20" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/untitled/main.cpp" timestamp="1561460689334">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/tencent/lqtpay_itg_server_proj/comm/payprocess.cpp" timestamp="1561642776965">
+        <mark key="[" line="81" column="7" />
+        <mark key="]" line="81" column="7" />
+        <mark key="." line="81" column="7" />
       </file>
       <file name="H:/study/project/tinyhttpd/simpleclient.c" timestamp="1554393489866">
         <mark key="'" line="13" column="17" />
@@ -28,6 +48,9 @@
         <mark key="]" line="2621" column="0" />
         <mark key="^" line="2621" column="0" />
         <mark key="." line="2621" column="0" />
+      </file>
+      <file name="/__dummy.xml" timestamp="1561644208758">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/c2ctrsfer_check.cpp" timestamp="1554768785619">
         <mark key="'" line="3191" column="22" />
@@ -97,21 +120,21 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>9734</entry>
-        <entry encoding="base64">XDxjbGllbnRfc29ja1w+</entry>
-        <entry encoding="base64">XDxhY2NlcHRfcmVxdWVzdFw+</entry>
-        <entry>is_print</entry>
-        <entry encoding="base64">XDxxcnlfZGJcPg==</entry>
-        <entry encoding="base64">XDxpc0MyY1Ryc0luZm9FeGlzdHNcPg==</entry>
-        <entry encoding="base64">XDxzZW5kX2FsYXJtXD4=</entry>
-        <entry encoding="base64">XDx3YXJuaW5nX2NoZWNrXD4=</entry>
-      </history-search>
+      <history-search />
       <history-cmd />
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
@@ -122,13 +145,7 @@
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
@@ -137,5 +154,8 @@
         <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
