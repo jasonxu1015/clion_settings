@@ -12,6 +12,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="H:\study\project" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/study" />
   </component>
 </application>
