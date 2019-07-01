@@ -34,7 +34,6 @@
       <file name="H:/study/project/tinyhttpd/simpleclient.c" timestamp="1554393489866">
         <mark key="'" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/work/tencent/t_user_cache_proj/t_user_cache/balance_ckv_tool.cpp" timestamp="1561713180439" />
       <file name="H:/work/tencent/c2ctrsfer_check_V3.0D0001/t_user_cache/common_def.h" timestamp="1554767195297">
         <mark key="[" line="65" column="4" />
         <mark key="]" line="65" column="15" />
@@ -154,6 +153,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
