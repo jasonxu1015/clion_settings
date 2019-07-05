@@ -10,7 +10,9 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
-  <action id="Find" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
@@ -34,6 +36,9 @@
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="MinimizeCurrentWindow" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
   <action id="RecentFiles" />
   <action id="Refresh" />
   <action id="Replace" />
