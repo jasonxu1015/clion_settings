@@ -5,12 +5,13 @@
       <mark key="Q" line="609" column="4" filename="$USER_HOME$/Documents/work/tencent/tenpay_fast_cgi_proj/tenpay/finance_pay_gate/comm/user_ckv.cpp" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/tencent/wx_cache_server_proj/service/wx_update_userinfo_service.cpp" timestamp="1562754837427">
+      <file name="$USER_HOME$/Documents/work/tencent/wx_cache_server_proj/service/wx_update_userinfo_service.cpp" timestamp="1562758241957">
         <mark key="'" line="207" column="30" />
         <mark key="[" line="213" column="3" />
         <mark key="]" line="213" column="3" />
         <mark key="." line="213" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/work/tencent/userinfo_server_proj/service/userOp.cpp" timestamp="1562759682241" />
       <file name="$USER_HOME$/Documents/work/tencent/ItgDealServer_proj/service/itg_c2ctransfer_service.cpp" timestamp="1562663967039">
         <mark key="'" line="306" column="9" />
       </file>
@@ -22,11 +23,6 @@
       <file name="$USER_HOME$/Documents/work/tencent/transfer_itg_server_proj/comm/appcomm.cpp" timestamp="1562660712840">
         <mark key="'" line="1377" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/work/tencent/finance_pay_server_proj/comm/MerInfoQueryClient.cpp" timestamp="1562640160336">
-        <mark key="]" line="110" column="0" />
-        <mark key="^" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/work/tencent/userinfo_server_proj/service/user_service.cpp" timestamp="1562749076929" />
       <file name="$USER_HOME$/Documents/work/tencent/userinfo_server_proj/service/util.cpp" timestamp="1562749326243" />
       <file name="H:/study/project/tinyhttpd/simpleclient.c" timestamp="1554393489866">
@@ -34,7 +30,7 @@
       </file>
       <file name="$USER_HOME$/Documents/work/tencent/tenpay_fast_cgi_proj/tenpay/finance_pay_gate/comm/user_ckv.cpp" timestamp="1562727639065" />
       <file name="$USER_HOME$/Documents/work/tencent/transfer_itg_server_proj/comm/transid_generate.cpp" timestamp="1562724785163" />
-      <file name="$USER_HOME$/Documents/work/tencent/t_user_cache_proj/t_user_cache/balance_ckv_tool.cpp" timestamp="1562744590011">
+      <file name="$USER_HOME$/Documents/work/tencent/t_user_cache_proj/t_user_cache/balance_ckv_tool.cpp" timestamp="1562761144730">
         <mark key="'" line="3226" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/work/tencent/userinfo_server_proj/service/theApp.h" timestamp="1562750124249" />
