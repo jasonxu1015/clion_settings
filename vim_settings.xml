@@ -41,6 +41,12 @@
       <file name="$USER_HOME$/Documents/work/tencent/PayComm_proj/paycomm/sqlapi.cpp" timestamp="1562815318203">
         <mark key="'" line="194" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/study/code/test/main.cpp" timestamp="1563500784532">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="47" column="24" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/work/tencent/t_user_cache_proj/t_user_cache/balance_ckv_tool.cpp" timestamp="1562761144730">
         <mark key="'" line="3226" column="31" />
       </file>
@@ -49,6 +55,9 @@
         <mark key="]" line="85" column="28" />
         <mark key="^" line="85" column="28" />
         <mark key="." line="85" column="28" />
+      </file>
+      <file name="/LLDB" timestamp="1563500769719">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/tencent/c2ctrsfer_check_proj/t_user_cache/c2ctrsfer_check.cpp" timestamp="1563447579083">
         <mark key="'" line="2872" column="5" />
@@ -118,44 +127,44 @@
       <jump line="2872" column="5" filename="$USER_HOME$/Documents/work/tencent/c2ctrsfer_check_proj/t_user_cache/c2ctrsfer_check.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>int</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0X3Rhc2tfbGlzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFF1ZXVlPGludD4gYTsK</text>
+        <text encoding="base64">ICAgIENvbXBsZXg8aW50PiBhKDEwLCAyMCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIFF1ZXVlPGJvb2w+IGI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFF1ZXVlPGludD4gYTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ewo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CnRlbXBsYXRlIDx0eXBlbmFtZSBUeXBlPiBjbGFzcyBRdWV1ZQp7CnB1YmxpYzoKICAgIFF1ZXVlKCk7CiAgICBUeXBlICZmcm9udCgpOwogICAgdm9pZCBwdXNoKGNvbnN0IFR5cGUgJik7CiAgICB2b2lkIHBvcCgpOwoKfTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UXVldWU8VHlwZT46OlF1ZXVlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVHlwZT4K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZvaWQgcG9wKCk7KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">UXVldWU8VHlwZT46OlF1ZXVlKCkK</text>
       </register>
     </registers>
     <search>
