@@ -34,6 +34,7 @@
       <file name="$USER_HOME$/Documents/work/tencent/PayComm_proj/paycomm/sqlapi.cpp" timestamp="1562815318203">
         <mark key="'" line="194" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/work/tencent/my_cur_work/wx_ckv_correct_V3.0D0138/include/wcc_bindinfo.h" timestamp="1563802692949" />
       <file name="$USER_HOME$/Documents/work/tencent/PayComm_proj/paycomm/Defines.h" timestamp="1562816185702">
         <mark key="[" line="85" column="28" />
         <mark key="]" line="85" column="28" />
@@ -68,6 +69,12 @@
         <mark key="]" line="48" column="0" />
         <mark key="^" line="47" column="24" />
         <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/tencent/my_cur_work/wx_ckv_correct_V3.0D0138/include/wcc_lqtcheck.h" timestamp="1563802723912">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/work/tencent/t_user_cache_proj/t_user_cache/balance_ckv_tool.cpp" timestamp="1562761144730">
         <mark key="'" line="3226" column="31" />
@@ -151,43 +158,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFdYQmluZEluZm9DYWNoZSBtX2JpbmRJbmZvQ2FjaGU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>has more then one record of Fbpay_state=1or2</text>
+        <text>lct</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2xzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3Qgc3RyaW5nIFNUUl9URVNUX0lQID0gIjEwLjEyMy4xMC4xMDQiOyAvL+W8gOWPkeeOr+Wig0lQCg==</text>
+        <text encoding="base64">ICAgIFd4TENUSW5mbyBtX2xjdEluZm9DYWNoZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFdYQmluZEluZm9DYWNoZSBtX2JpbmRJbmZvQ2FjaGU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRSQUNFX1dBUk4oImFibm9ybWFsIGNvdW50IG9mIHN1YiBkYjpbJWxsZF0iLCBtX2Fibm9ybWFsQ250KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRSQUNFX1dBUk4oImFibm9ybWFsIGNvdW50IG9mIHN1YiBkYjpbJWxsZF0iLCBtX2Fibm9ybWFsQ250KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFF1ZXVlPGJvb2w+IGI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIFF1ZXVlPGJvb2w+IGI7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIFF1ZXVlPGludD4gYTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CnRlbXBsYXRlIDx0eXBlbmFtZSBUeXBlPiBjbGFzcyBRdWV1ZQp7CnB1YmxpYzoKICAgIFF1ZXVlKCk7CiAgICBUeXBlICZmcm9udCgpOwogICAgdm9pZCBwdXNoKGNvbnN0IFR5cGUgJik7CiAgICB2b2lkIHBvcCgpOwoKfTs=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
     </registers>
     <search>
