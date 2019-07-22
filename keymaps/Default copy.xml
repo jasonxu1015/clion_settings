@@ -46,6 +46,7 @@
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="Run" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="TodoViewGroupByFlattenPackage" />
   <action id="TodoViewGroupByShowModules" />
