@@ -21,7 +21,6 @@
       <file name="$USER_HOME$/Documents/work/tencent/order_core_check_proj/makefile" timestamp="1563425576919">
         <mark key="'" line="96" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/work/tencent/my_cur_work/wx_ckv_correct_V3.0D0138/include/dbpool.h" timestamp="1563539561604" />
       <file name="$USER_HOME$/Documents/work/tencent/transfer_itg_server_proj/comm/appcomm.cpp" timestamp="1562660712840">
         <mark key="'" line="1377" column="65" />
       </file>
@@ -40,11 +39,10 @@
         <mark key="^" line="85" column="28" />
         <mark key="." line="85" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/work/tencent/my_cur_work/wx_ckv_correct_V3.0D0138/src/ckv_correct/main.cpp" timestamp="1563537614524" />
       <file name="/LLDB" timestamp="1563500769719">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/tencent/c2ctrsfer_check_proj/t_user_cache/c2ctrsfer_check.cpp" timestamp="1563447579083">
+      <file name="$USER_HOME$/Documents/work/tencent/c2ctrsfer_check_proj/t_user_cache/c2ctrsfer_check.cpp" timestamp="1563798308997">
         <mark key="'" line="2872" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/work/tencent/PayComm_proj/CMakeLists.txt" timestamp="1562813922185">
@@ -56,7 +54,6 @@
       <file name="H:/study/project/tinyhttpd/simpleclient.c" timestamp="1554393489866">
         <mark key="'" line="13" column="17" />
       </file>
-      <file name="/FPGProtocol.cpp" timestamp="1563532345910" />
       <file name="$USER_HOME$/Documents/work/tencent/ban_itg_server_proj/comm/PayManager.h" timestamp="1563366963280">
         <mark key="'" line="5" column="28" />
         <mark key="[" line="67" column="29" />
@@ -64,6 +61,7 @@
         <mark key="." line="67" column="3" />
         <mark key="^" line="67" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/work/tencent/tenpay_fast_cgi_proj/tenpay/finance_pay_gate/comm/user_ckv.cpp" timestamp="1563778603673" />
       <file name="$USER_HOME$/Documents/study/code/test/main.cpp" timestamp="1563500784532">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -73,17 +71,18 @@
       <file name="$USER_HOME$/Documents/work/tencent/t_user_cache_proj/t_user_cache/balance_ckv_tool.cpp" timestamp="1562761144730">
         <mark key="'" line="3226" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/work/tencent/FPGProtocol_lib_proj/example/fpg_sms_code_send_test/fpg_sms_code_send_test.cpp" timestamp="1563766814894" />
-      <file name="$USER_HOME$/Documents/work/tencent/my_cur_work/wx_ckv_correct_V3.0D0138/src/ckv_correct/wcc_lqtcheck.cpp" timestamp="1563672934266" />
-      <file name="$USER_HOME$/Documents/work/tencent/lqtpay_itg_server_proj/service/lqp_lct_close_bankroll_c_src.cpp" timestamp="1563764649746" />
+      <file name="$USER_HOME$/Documents/work/tencent/my_cur_work/wx_ckv_correct_V3.0D0138/src/ckv_correct/wcc_lqtcheck.cpp" timestamp="1563798728559">
+        <mark key="'" line="567" column="51" />
+        <mark key="[" line="573" column="0" />
+        <mark key="]" line="573" column="0" />
+        <mark key="." line="573" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/work/tencent/my_cur_work/payment_access_server_V3.0D0113/comm/order_mapping.h" timestamp="1563180245458">
         <mark key="[" line="356" column="87" />
         <mark key="]" line="316" column="15" />
         <mark key="^" line="316" column="15" />
         <mark key="." line="316" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/work/tencent/FPGProtocol_lib_proj/src/FPGProtocol.cpp" timestamp="1563532416828" />
-      <file name="$USER_HOME$/Documents/work/tencent/lqtpay_itg_server_proj/service/lqp_wx_close_bankroll_c_src.cpp" timestamp="1563764669237" />
     </filemarks>
     <jumps>
       <jump line="13" column="17" filename="H:/study/project/tinyhttpd/simpleclient.c" />
@@ -138,16 +137,21 @@
       <jump line="96" column="7" filename="$USER_HOME$/Documents/work/tencent/order_core_check_proj/makefile" />
       <jump line="2786" column="5" filename="$USER_HOME$/Documents/work/tencent/c2ctrsfer_check_proj/t_user_cache/c2ctrsfer_check.cpp" />
       <jump line="2872" column="5" filename="$USER_HOME$/Documents/work/tencent/c2ctrsfer_check_proj/t_user_cache/c2ctrsfer_check.cpp" />
+      <jump line="257" column="18" filename="$USER_HOME$/Documents/work/tencent/my_cur_work/wx_ckv_correct_V3.0D0138/src/ckv_correct/wcc_lqtcheck.cpp" />
+      <jump line="135" column="4" filename="$USER_HOME$/Documents/work/tencent/my_cur_work/wx_ckv_correct_V3.0D0138/src/ckv_correct/wcc_lqtcheck.cpp" />
+      <jump line="571" column="50" filename="$USER_HOME$/Documents/work/tencent/my_cur_work/wx_ckv_correct_V3.0D0138/src/ckv_correct/wcc_lqtcheck.cpp" />
+      <jump line="298" column="12" filename="$USER_HOME$/Documents/work/tencent/my_cur_work/wx_ckv_correct_V3.0D0138/src/ckv_correct/wcc_lqtcheck.cpp" />
+      <jump line="567" column="51" filename="$USER_HOME$/Documents/work/tencent/my_cur_work/wx_ckv_correct_V3.0D0138/src/ckv_correct/wcc_lqtcheck.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>085e9858ef8b15653b9556c52@wx.tenpay.com</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>085e9858ef8b15653b9556c52@wx.tenpay.com</text>
+        <text>has more then one record of Fbpay_state=1or2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbml0X3Rhc2tfbGlzdFw+</text>
+        <text encoding="base64">XDxtX2Fibm9ybWFsQ250XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3Qgc3RyaW5nIFNUUl9URVNUX0lQID0gIjEwLjEyMy4xMC4xMDQiOyAvL+W8gOWPkeeOr+Wig0lQCg==</text>
@@ -156,34 +160,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFF1ZXVlPGJvb2w+IGI7Cg==</text>
+        <text encoding="base64">ICAgIFRSQUNFX1dBUk4oImFibm9ybWFsIGNvdW50IG9mIHN1YiBkYjpbJWxsZF0iLCBtX2Fibm9ybWFsQ250KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFF1ZXVlPGludD4gYTsK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CnRlbXBsYXRlIDx0eXBlbmFtZSBUeXBlPiBjbGFzcyBRdWV1ZQp7CnB1YmxpYzoKICAgIFF1ZXVlKCk7CiAgICBUeXBlICZmcm9udCgpOwogICAgdm9pZCBwdXNoKGNvbnN0IFR5cGUgJik7CiAgICB2b2lkIHBvcCgpOwoKfTs=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFF1ZXVlPGJvb2w+IGI7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFF1ZXVlPGludD4gYTsK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CnRlbXBsYXRlIDx0eXBlbmFtZSBUeXBlPiBjbGFzcyBRdWV1ZQp7CnB1YmxpYzoKICAgIFF1ZXVlKCk7CiAgICBUeXBlICZmcm9udCgpOwogICAgdm9pZCBwdXNoKGNvbnN0IFR5cGUgJik7CiAgICB2b2lkIHBvcCgpOwoKfTs=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UXVldWU8VHlwZT46OlF1ZXVlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbml0X3Rhc2tfbGlzdFw+</last-search>
+      <last-search encoding="base64">XDxtX2Fibm9ybWFsQ250XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbml0X3Rhc2tfbGlzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxtX2Fibm9ybWFsQ250XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -201,6 +205,8 @@
         <entry encoding="base64">XDxBTExcPg==</entry>
         <entry encoding="base64">XDxhZGRfZGJfc3BlY1w+</entry>
         <entry encoding="base64">XDxpbml0X3Rhc2tfbGlzdFw+</entry>
+        <entry encoding="base64">XDxkZWFsU3ViYWNjTHF0Q2t2XD4=</entry>
+        <entry encoding="base64">XDxtX2Fibm9ybWFsQ250XD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
